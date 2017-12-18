@@ -1,0 +1,16 @@
+@import "./imports/_normalize.scss";
+
+*{ box-sizing: border-box }
+
+img {
+   width: 100%;
+   display: block;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+#app-container{
+}
